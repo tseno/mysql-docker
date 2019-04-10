@@ -1,2 +1,3 @@
-insert into test_table (name, created_at) values ('taro', '2019-04-10 12:34:56');
+insert into mydata (name, mail, age) values ('taro', 'taro@example.com', 20);
+insert into mydata (name, mail, age) values ('ichiro', 'ichiro@example.com', 45);
 
